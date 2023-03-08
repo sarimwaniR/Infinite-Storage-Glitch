@@ -49,10 +49,11 @@ Trying to make anything work on other people's computers is a nightmare so I'll 
 2. Clone this repository
 3. Change into the repository `cd Infinite-Storage-Glitch`
 4. Run `docker build -t isg .` to build the docker image.
-5. Run `docker run -it --rm -v ${PWD}:/home/Infinite-Storage-Glitch isg cargo build --release` to build the project.
+5. Run `docker run --rm -v "$(pwd):/home/infinite-storage-glitch" -w /home/infinite-storage-glitch isg cargo build --release
+` to build the project.
 
 That's it. You will find the executable in the `target/release` directory. 
-
+This command should work on both Linux and Windows systems. The `$(pwd)` syntax is used to get the absolute path of the current working directory.
 ℹ️ **Please Note:** The binary will be a linux executable, so you will need to run it in a linux environment.
 If you do not have a linux environment, you can use [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) 
 or run it using the docker container called `isg` we just built **using a Linux shell or PowerShell**:

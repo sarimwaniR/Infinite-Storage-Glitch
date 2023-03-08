@@ -1,6 +1,7 @@
 #### Do what you want with the code, but credit would be much appreciated and if you have any trouble with ISG, please contact me over discord. HistidineDwarf#8927 (creator) might not respond `or contact Sarim Wani#5696 (me) only if it is not working`
-#### or try https://chat.openai.com/chat it works trust me MADE BY DvorakDwarf/HistidineDwarf maintained by-Sarim Wani (this is a fork beacuse the pervious one has been achived probaly a Cease and Desist order was issued)
+#### or try https://chat.openai.com/chat
 #### I was working on this instead of my finals, hope you appreciate it.
+#### All issues disscued with me (Sarim) will be up on [here](https:banbts.in/issue)
 
 Treat this less like the next dropbox and more like a "party trick" or a set of techniques to learn to pass data through compression. I do not endorse high volume use of this tool. I will also refrain from approving more commits to make the tool more convenient to use. There are several bugs that limit the use like the poor use of RAM limiting the size of files to about 100mb and they will remain. If you wish to fix these, you are on your own.
 
@@ -102,3 +103,4 @@ To make it easier on the user, we also include all the relevant settings used to
 
 # Final comments
 I appreciate any and all roasting of the code so I can improve.
+#### Made by DvorakDwarf/HistidineDwarf maintained by-Sarim Wani (this is a fork beacuse the pervious one has been achived probaly a Cease and Desist order was issued)

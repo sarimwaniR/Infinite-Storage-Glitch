@@ -1,4 +1,4 @@
-#### Do what you want with the code, but credit would be much appreciated and if you have any trouble with ISG, please contact me over discord. HistidineDwarf#8927
+#### Do what you want with the code, but credit would be much appreciated and if you have any trouble with ISG, please contact me over discord. HistidineDwarf#8927 (creator) might not respond or Sarim Wani#5696 (me)
 #### or try https://chat.openai.com/chat it works trust me MADE BY DvorakDwarf/HistidineDwarf maintained by-Sarim Wani (this is a fork beacuse the pervious one has been achived probaly a Cease and Desist order was issued)
 #### I was working on this instead of my finals, hope you appreciate it.
 
@@ -6,7 +6,7 @@ Treat this less like the next dropbox and more like a "party trick" or a set of 
 
 "Some dude sent me email saying he has a patent on the idea of storing data on YT. It sounded extremely phishy and I could not find the patent on USPTO. If you have evidence I'll not shut it down try sue me youtube you will never find me "
 
-Oh and if Youtube sends me a Cease and Desist I'll gladly shut it down too.
+Oh and if Youtube sends me a Cease and Desist I'll gladly shut it down to. email-Sarimwani@proton.me 
 
 # Infinite-Storage-Glitch
 

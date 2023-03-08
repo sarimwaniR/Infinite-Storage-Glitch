@@ -56,7 +56,7 @@ Trying to make anything work on other people's computers is a nightmare so I'll 
 
 That's it. You will find the executable in the `target/release` directory. 
 
-ℹ️ **Please Note:** *2 The binary will be a linux executable, so you will need to run it in a linux environment.
+ℹ️ **Please Note:** The binary will be a linux executable, so you will need to run it in a linux environment.
 If you do not have a linux environment, you can use [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) 
 or run it using the docker container called `isg` we just built **using a Linux shell or PowerShell**:
 
@@ -102,4 +102,4 @@ To make it easier on the user, we also include all the relevant settings used to
 
 # Final comments
 I appreciate any and all roasting of the code so I can improve.
-#### Made by DvorakDwarf/HistidineDwarf maintained by-Sarim Wani (this is a fork beacuse the pervious one has been achived probaly a Cease and Desist order was issued)
+#### Made by DvorakDwarf/HistidineDwarf maintained by-Sarim Wani (this is a fork beacuse the pervious one has been achived probaly beacuse he got board)

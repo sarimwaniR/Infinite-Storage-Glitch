@@ -38,7 +38,6 @@ If having any issues also try installing:
 - [ffmpeg](https://ffmpeg.org/)
 - [clang](https://clang.llvm.org/)
 - [qt](https://github.com/qt)
-
 If you want to or already have went through the hassle of installing Rust, you can ```git clone``` this repository, then ```cargo build --release```.
 Cd to `/target/release` directory and run the program `./isg_4real`.
 
@@ -51,7 +50,9 @@ Trying to make anything work on other people's computers is a nightmare so I'll 
 3. Change into the repository `cd Infinite-Storage-Glitch`
 4. Run `docker build -t isg .` to build the docker image.
 5. Run `docker run --rm -v "$(pwd):/home/infinite-storage-glitch" -w /home/infinite-storage-glitch isg cargo build --release
+` or`docker run --rm -v "%cd%:/home/infinite-storage-glitch" -w /home/infinite-storage-glitch isg cargo build --release
 ` to build the project.
+6. cd to `/target/release` directory and run the program `./isg_4real` with `rustc ./isg_4real`
 
 That's it. You will find the executable in the `target/release` directory. 
 

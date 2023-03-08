@@ -55,8 +55,6 @@ Trying to make anything work on other people's computers is a nightmare so I'll 
 
 That's it. You will find the executable in the `target/release` directory. 
 
-ℹ️ **Please Note:** This command should work on both Linux and Windows systems. The `$(pwd)` syntax is used to get the absolute path of the current working directory.
-
 ℹ️ **Please Note:** *2 The binary will be a linux executable, so you will need to run it in a linux environment.
 If you do not have a linux environment, you can use [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) 
 or run it using the docker container called `isg` we just built **using a Linux shell or PowerShell**:

@@ -44,7 +44,7 @@ Cd to `/target/release` directory and run the program `./isg_4real`.
 
 ## The easiest way (Docker)
 
-Trying to make anything work on other people's computers is a nightmare so I'll use docker from now on
+Trying to make anything work on other people's computers is a nightmare so I'll use docker from now on here is what should [happen](https://www.banbts.in/whatshouldhappen)
 
 1. Install [Docker](https://docs.docker.com/get-docker/) if you haven't already.
 2. Clone this repository
